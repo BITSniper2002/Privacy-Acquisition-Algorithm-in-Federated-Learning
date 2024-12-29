@@ -1,1 +1,9 @@
 
+venv/
+.env
+
+*.csv
+*.log
+*.out
+*.json
+.DS_Store
