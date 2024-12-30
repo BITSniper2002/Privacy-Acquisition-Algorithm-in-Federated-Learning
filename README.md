@@ -20,3 +20,6 @@ may be grammatically correct, but semantically wrong. This step is introduced to
 Before I talk about my result, let me explain a parameter that will be used in this part. Interval i means there should be at least i words between two same words in a recovered sentence. 
 My method use the same datasets (Wikitext and Enron Email) as the previous study did. I also conduct experiment on a sports dataset. The result shows that when the interval is 6, my attacking method can achieve the best performance. Also, my attacking method is overall better than FILM when attacking sports dataset.
 
+# How to use
+The codes are stored in experiment folder, and the usage of each code snippet is implied by the name. Hopefully it will be easy to understand.
+
